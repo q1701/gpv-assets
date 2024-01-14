@@ -22,14 +22,14 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="1"
      inkscape:deskcolor="#505050"
-     inkscape:zoom="5.4067665"
-     inkscape:cx="95.898353"
-     inkscape:cy="52.249344"
-     inkscape:window-width="2560"
-     inkscape:window-height="1377"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
-     inkscape:window-maximized="1"
+     inkscape:zoom="0.95579032"
+     inkscape:cx="-141.7675"
+     inkscape:cy="146.99877"
+     inkscape:window-width="1730"
+     inkscape:window-height="1017"
+     inkscape:window-x="236"
+     inkscape:window-y="253"
+     inkscape:window-maximized="0"
      inkscape:current-layer="Layer_1" />
   <defs
      id="defs1">
@@ -179,4 +179,10 @@
      cy="41.325462"
      rx="25.350332"
      ry="24.783846" />
+  <circle
+     style="fill:none;stroke:#037705;stroke-width:3.17186;stroke-dasharray:none;stroke-opacity:1"
+     id="path23"
+     cx="127.38149"
+     cy="41.327057"
+     r="27.37825" />
 </svg>
